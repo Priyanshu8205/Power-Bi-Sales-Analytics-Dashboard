@@ -1,0 +1,1001 @@
+CustomerID,CustomerName,Gender,Age,City,Region,Segment
+C0001,Customer 0001,Female,49,Noida,North,Corporate
+C0002,Customer 0002,Female,22,Ahmedabad,West,Small Business
+C0003,Customer 0003,Male,43,Jaipur,North,Small Business
+C0004,Customer 0004,Female,52,Mysuru,South,Small Business
+C0005,Customer 0005,Male,58,Bengaluru,South,Corporate
+C0006,Customer 0006,Male,26,Bengaluru,South,Small Business
+C0007,Customer 0007,Female,37,Kolkata,East,Small Business
+C0008,Customer 0008,Male,39,Bengaluru,South,Consumer
+C0009,Customer 0009,Female,60,Noida,North,Consumer
+C0010,Customer 0010,Female,31,Patna,East,Corporate
+C0011,Customer 0011,Female,51,Lucknow,North,Corporate
+C0012,Customer 0012,Female,39,Noida,North,Small Business
+C0013,Customer 0013,Female,54,Kochi,South,Consumer
+C0014,Customer 0014,Male,41,Pune,West,Consumer
+C0015,Customer 0015,Male,53,Bengaluru,South,Small Business
+C0016,Customer 0016,Female,35,Ranchi,East,Small Business
+C0017,Customer 0017,Male,61,Ahmedabad,West,Corporate
+C0018,Customer 0018,Male,56,Noida,North,Consumer
+C0019,Customer 0019,Male,50,Surat,West,Corporate
+C0020,Customer 0020,Male,45,Mumbai,West,Small Business
+C0021,Customer 0021,Male,25,Ranchi,East,Small Business
+C0022,Customer 0022,Female,22,Hyderabad,South,Consumer
+C0023,Customer 0023,Female,38,Kolkata,East,Small Business
+C0024,Customer 0024,Male,61,Bhubaneswar,East,Consumer
+C0025,Customer 0025,Female,48,Jaipur,North,Consumer
+C0026,Customer 0026,Male,56,Bhubaneswar,East,Consumer
+C0027,Customer 0027,Female,55,Kolkata,East,Corporate
+C0028,Customer 0028,Female,31,Surat,West,Small Business
+C0029,Customer 0029,Male,42,Chennai,South,Corporate
+C0030,Customer 0030,Male,29,Delhi,North,Consumer
+C0031,Customer 0031,Female,49,Ahmedabad,West,Corporate
+C0032,Customer 0032,Female,21,Patna,East,Small Business
+C0033,Customer 0033,Female,45,Chennai,South,Corporate
+C0034,Customer 0034,Female,56,Noida,North,Consumer
+C0035,Customer 0035,Male,34,Hyderabad,South,Corporate
+C0036,Customer 0036,Male,31,Indore,Central,Corporate
+C0037,Customer 0037,Female,19,Indore,Central,Consumer
+C0038,Customer 0038,Male,59,Bhubaneswar,East,Consumer
+C0039,Customer 0039,Male,38,Ranchi,East,Corporate
+C0040,Customer 0040,Female,42,Gurugram,North,Small Business
+C0041,Customer 0041,Female,37,Indore,Central,Corporate
+C0042,Customer 0042,Female,33,Ahmedabad,West,Consumer
+C0043,Customer 0043,Male,23,Mumbai,West,Consumer
+C0044,Customer 0044,Female,51,Kolkata,East,Corporate
+C0045,Customer 0045,Male,61,Mysuru,South,Corporate
+C0046,Customer 0046,Male,41,Ranchi,East,Small Business
+C0047,Customer 0047,Male,25,Surat,West,Corporate
+C0048,Customer 0048,Male,50,Jaipur,North,Corporate
+C0049,Customer 0049,Male,64,Hyderabad,South,Consumer
+C0050,Customer 0050,Male,34,Mumbai,West,Small Business
+C0051,Customer 0051,Female,41,Pune,West,Small Business
+C0052,Customer 0052,Male,54,Surat,West,Small Business
+C0053,Customer 0053,Female,30,Chandigarh,North,Small Business
+C0054,Customer 0054,Male,53,Kolkata,East,Consumer
+C0055,Customer 0055,Male,39,Noida,North,Small Business
+C0056,Customer 0056,Male,51,Gurugram,North,Consumer
+C0057,Customer 0057,Male,56,Mysuru,South,Corporate
+C0058,Customer 0058,Male,40,Bengaluru,South,Small Business
+C0059,Customer 0059,Female,41,Delhi,North,Small Business
+C0060,Customer 0060,Male,32,Kochi,South,Corporate
+C0061,Customer 0061,Female,22,Gurugram,North,Corporate
+C0062,Customer 0062,Male,54,Hyderabad,South,Corporate
+C0063,Customer 0063,Male,26,Kolkata,East,Corporate
+C0064,Customer 0064,Male,49,Lucknow,North,Consumer
+C0065,Customer 0065,Male,26,Kochi,South,Corporate
+C0066,Customer 0066,Male,32,Kolkata,East,Small Business
+C0067,Customer 0067,Female,39,Indore,Central,Corporate
+C0068,Customer 0068,Female,32,Hyderabad,South,Consumer
+C0069,Customer 0069,Female,38,Lucknow,North,Corporate
+C0070,Customer 0070,Female,21,Surat,West,Consumer
+C0071,Customer 0071,Male,50,Chandigarh,North,Corporate
+C0072,Customer 0072,Female,25,Ahmedabad,West,Corporate
+C0073,Customer 0073,Male,56,Bengaluru,South,Consumer
+C0074,Customer 0074,Male,44,Indore,Central,Corporate
+C0075,Customer 0075,Male,31,Bhubaneswar,East,Consumer
+C0076,Customer 0076,Female,18,Pune,West,Small Business
+C0077,Customer 0077,Male,32,Bengaluru,South,Corporate
+C0078,Customer 0078,Male,49,Mumbai,West,Small Business
+C0079,Customer 0079,Male,29,Gurugram,North,Corporate
+C0080,Customer 0080,Female,63,Mysuru,South,Small Business
+C0081,Customer 0081,Male,47,Mumbai,West,Small Business
+C0082,Customer 0082,Male,29,Indore,Central,Consumer
+C0083,Customer 0083,Female,44,Gurugram,North,Corporate
+C0084,Customer 0084,Female,40,Mumbai,West,Small Business
+C0085,Customer 0085,Male,27,Indore,Central,Small Business
+C0086,Customer 0086,Male,47,Hyderabad,South,Corporate
+C0087,Customer 0087,Male,65,Ranchi,East,Small Business
+C0088,Customer 0088,Male,43,Lucknow,North,Consumer
+C0089,Customer 0089,Male,64,Chandigarh,North,Small Business
+C0090,Customer 0090,Female,22,Lucknow,North,Small Business
+C0091,Customer 0091,Female,28,Bhubaneswar,East,Small Business
+C0092,Customer 0092,Female,40,Gurugram,North,Consumer
+C0093,Customer 0093,Female,34,Delhi,North,Corporate
+C0094,Customer 0094,Male,60,Ahmedabad,West,Consumer
+C0095,Customer 0095,Female,36,Mysuru,South,Consumer
+C0096,Customer 0096,Female,63,Delhi,North,Consumer
+C0097,Customer 0097,Male,21,Delhi,North,Small Business
+C0098,Customer 0098,Male,53,Patna,East,Consumer
+C0099,Customer 0099,Female,52,Pune,West,Small Business
+C0100,Customer 0100,Male,31,Delhi,North,Consumer
+C0101,Customer 0101,Female,33,Indore,Central,Small Business
+C0102,Customer 0102,Female,38,Surat,West,Consumer
+C0103,Customer 0103,Male,26,Ranchi,East,Consumer
+C0104,Customer 0104,Male,18,Chandigarh,North,Small Business
+C0105,Customer 0105,Male,32,Indore,Central,Corporate
+C0106,Customer 0106,Female,54,Ranchi,East,Corporate
+C0107,Customer 0107,Male,59,Ahmedabad,West,Small Business
+C0108,Customer 0108,Female,22,Delhi,North,Small Business
+C0109,Customer 0109,Male,38,Bhubaneswar,East,Consumer
+C0110,Customer 0110,Female,21,Chennai,South,Corporate
+C0111,Customer 0111,Male,24,Indore,Central,Corporate
+C0112,Customer 0112,Female,33,Bengaluru,South,Small Business
+C0113,Customer 0113,Male,64,Bengaluru,South,Small Business
+C0114,Customer 0114,Male,46,Surat,West,Corporate
+C0115,Customer 0115,Female,58,Gurugram,North,Consumer
+C0116,Customer 0116,Male,53,Mysuru,South,Corporate
+C0117,Customer 0117,Female,25,Delhi,North,Corporate
+C0118,Customer 0118,Female,53,Lucknow,North,Small Business
+C0119,Customer 0119,Male,48,Ahmedabad,West,Small Business
+C0120,Customer 0120,Male,49,Bhubaneswar,East,Consumer
+C0121,Customer 0121,Female,30,Chandigarh,North,Small Business
+C0122,Customer 0122,Male,34,Surat,West,Corporate
+C0123,Customer 0123,Female,62,Kolkata,East,Small Business
+C0124,Customer 0124,Female,31,Kolkata,East,Corporate
+C0125,Customer 0125,Male,62,Gurugram,North,Corporate
+C0126,Customer 0126,Female,64,Gurugram,North,Small Business
+C0127,Customer 0127,Male,43,Chandigarh,North,Consumer
+C0128,Customer 0128,Male,65,Chandigarh,North,Small Business
+C0129,Customer 0129,Female,64,Bhubaneswar,East,Consumer
+C0130,Customer 0130,Male,40,Patna,East,Corporate
+C0131,Customer 0131,Male,27,Pune,West,Small Business
+C0132,Customer 0132,Male,62,Mumbai,West,Consumer
+C0133,Customer 0133,Female,46,Ranchi,East,Consumer
+C0134,Customer 0134,Male,45,Lucknow,North,Consumer
+C0135,Customer 0135,Male,43,Surat,West,Consumer
+C0136,Customer 0136,Male,27,Mysuru,South,Consumer
+C0137,Customer 0137,Male,38,Bhubaneswar,East,Corporate
+C0138,Customer 0138,Female,56,Bengaluru,South,Corporate
+C0139,Customer 0139,Male,65,Bhubaneswar,East,Corporate
+C0140,Customer 0140,Female,56,Mysuru,South,Small Business
+C0141,Customer 0141,Male,41,Bengaluru,South,Consumer
+C0142,Customer 0142,Male,28,Patna,East,Consumer
+C0143,Customer 0143,Female,63,Hyderabad,South,Corporate
+C0144,Customer 0144,Male,18,Chandigarh,North,Corporate
+C0145,Customer 0145,Female,60,Ranchi,East,Consumer
+C0146,Customer 0146,Female,23,Noida,North,Consumer
+C0147,Customer 0147,Female,51,Ahmedabad,West,Consumer
+C0148,Customer 0148,Female,56,Bhubaneswar,East,Small Business
+C0149,Customer 0149,Female,33,Jaipur,North,Small Business
+C0150,Customer 0150,Female,48,Chennai,South,Corporate
+C0151,Customer 0151,Female,53,Hyderabad,South,Consumer
+C0152,Customer 0152,Female,33,Bhubaneswar,East,Corporate
+C0153,Customer 0153,Female,58,Indore,Central,Corporate
+C0154,Customer 0154,Male,50,Kolkata,East,Corporate
+C0155,Customer 0155,Male,20,Jaipur,North,Consumer
+C0156,Customer 0156,Male,25,Ahmedabad,West,Corporate
+C0157,Customer 0157,Male,34,Hyderabad,South,Corporate
+C0158,Customer 0158,Male,53,Bengaluru,South,Consumer
+C0159,Customer 0159,Male,26,Ahmedabad,West,Small Business
+C0160,Customer 0160,Male,56,Jaipur,North,Small Business
+C0161,Customer 0161,Female,59,Kochi,South,Corporate
+C0162,Customer 0162,Male,40,Kolkata,East,Corporate
+C0163,Customer 0163,Female,41,Indore,Central,Corporate
+C0164,Customer 0164,Female,44,Jaipur,North,Corporate
+C0165,Customer 0165,Female,21,Kolkata,East,Consumer
+C0166,Customer 0166,Female,19,Lucknow,North,Consumer
+C0167,Customer 0167,Female,42,Chennai,South,Small Business
+C0168,Customer 0168,Male,63,Ranchi,East,Corporate
+C0169,Customer 0169,Male,47,Hyderabad,South,Small Business
+C0170,Customer 0170,Male,43,Chennai,South,Small Business
+C0171,Customer 0171,Male,64,Mysuru,South,Small Business
+C0172,Customer 0172,Female,37,Lucknow,North,Corporate
+C0173,Customer 0173,Female,65,Ahmedabad,West,Small Business
+C0174,Customer 0174,Female,22,Ranchi,East,Consumer
+C0175,Customer 0175,Female,20,Mysuru,South,Consumer
+C0176,Customer 0176,Female,26,Bengaluru,South,Consumer
+C0177,Customer 0177,Female,18,Gurugram,North,Corporate
+C0178,Customer 0178,Male,50,Surat,West,Corporate
+C0179,Customer 0179,Female,62,Mysuru,South,Small Business
+C0180,Customer 0180,Male,29,Bengaluru,South,Corporate
+C0181,Customer 0181,Female,58,Gurugram,North,Consumer
+C0182,Customer 0182,Male,52,Kolkata,East,Consumer
+C0183,Customer 0183,Female,52,Surat,West,Corporate
+C0184,Customer 0184,Female,27,Ranchi,East,Small Business
+C0185,Customer 0185,Male,53,Mysuru,South,Small Business
+C0186,Customer 0186,Female,48,Bhubaneswar,East,Consumer
+C0187,Customer 0187,Male,43,Kolkata,East,Consumer
+C0188,Customer 0188,Male,64,Mumbai,West,Consumer
+C0189,Customer 0189,Female,44,Noida,North,Corporate
+C0190,Customer 0190,Male,24,Mysuru,South,Small Business
+C0191,Customer 0191,Female,63,Lucknow,North,Small Business
+C0192,Customer 0192,Female,47,Pune,West,Corporate
+C0193,Customer 0193,Male,49,Gurugram,North,Small Business
+C0194,Customer 0194,Female,58,Delhi,North,Small Business
+C0195,Customer 0195,Male,31,Ahmedabad,West,Small Business
+C0196,Customer 0196,Female,23,Patna,East,Consumer
+C0197,Customer 0197,Female,19,Surat,West,Small Business
+C0198,Customer 0198,Male,22,Bengaluru,South,Corporate
+C0199,Customer 0199,Female,38,Mysuru,South,Consumer
+C0200,Customer 0200,Male,33,Indore,Central,Corporate
+C0201,Customer 0201,Male,42,Delhi,North,Small Business
+C0202,Customer 0202,Female,44,Mysuru,South,Consumer
+C0203,Customer 0203,Female,20,Pune,West,Small Business
+C0204,Customer 0204,Male,55,Kochi,South,Small Business
+C0205,Customer 0205,Male,49,Delhi,North,Small Business
+C0206,Customer 0206,Female,24,Delhi,North,Corporate
+C0207,Customer 0207,Male,50,Hyderabad,South,Small Business
+C0208,Customer 0208,Male,29,Patna,East,Consumer
+C0209,Customer 0209,Male,59,Surat,West,Small Business
+C0210,Customer 0210,Male,18,Bhubaneswar,East,Small Business
+C0211,Customer 0211,Female,61,Chandigarh,North,Consumer
+C0212,Customer 0212,Male,25,Delhi,North,Consumer
+C0213,Customer 0213,Female,65,Bhubaneswar,East,Small Business
+C0214,Customer 0214,Male,31,Indore,Central,Small Business
+C0215,Customer 0215,Male,50,Jaipur,North,Small Business
+C0216,Customer 0216,Female,23,Indore,Central,Small Business
+C0217,Customer 0217,Female,57,Bhubaneswar,East,Small Business
+C0218,Customer 0218,Male,39,Ahmedabad,West,Consumer
+C0219,Customer 0219,Male,51,Gurugram,North,Corporate
+C0220,Customer 0220,Female,44,Bengaluru,South,Corporate
+C0221,Customer 0221,Female,39,Noida,North,Consumer
+C0222,Customer 0222,Female,20,Bhubaneswar,East,Consumer
+C0223,Customer 0223,Male,22,Delhi,North,Small Business
+C0224,Customer 0224,Female,53,Bengaluru,South,Corporate
+C0225,Customer 0225,Male,21,Bengaluru,South,Corporate
+C0226,Customer 0226,Male,28,Delhi,North,Small Business
+C0227,Customer 0227,Female,37,Surat,West,Consumer
+C0228,Customer 0228,Male,54,Pune,West,Consumer
+C0229,Customer 0229,Female,46,Pune,West,Corporate
+C0230,Customer 0230,Female,30,Bengaluru,South,Corporate
+C0231,Customer 0231,Female,39,Patna,East,Consumer
+C0232,Customer 0232,Female,43,Jaipur,North,Consumer
+C0233,Customer 0233,Female,43,Ahmedabad,West,Small Business
+C0234,Customer 0234,Female,39,Chandigarh,North,Small Business
+C0235,Customer 0235,Male,40,Lucknow,North,Corporate
+C0236,Customer 0236,Male,61,Kochi,South,Corporate
+C0237,Customer 0237,Male,64,Gurugram,North,Consumer
+C0238,Customer 0238,Male,22,Ranchi,East,Consumer
+C0239,Customer 0239,Male,55,Hyderabad,South,Corporate
+C0240,Customer 0240,Female,64,Ahmedabad,West,Corporate
+C0241,Customer 0241,Male,58,Lucknow,North,Consumer
+C0242,Customer 0242,Female,46,Ranchi,East,Consumer
+C0243,Customer 0243,Male,32,Ranchi,East,Corporate
+C0244,Customer 0244,Male,25,Surat,West,Consumer
+C0245,Customer 0245,Female,34,Noida,North,Corporate
+C0246,Customer 0246,Female,44,Chennai,South,Corporate
+C0247,Customer 0247,Female,47,Chennai,South,Consumer
+C0248,Customer 0248,Female,34,Jaipur,North,Corporate
+C0249,Customer 0249,Male,43,Lucknow,North,Corporate
+C0250,Customer 0250,Male,64,Bengaluru,South,Corporate
+C0251,Customer 0251,Female,44,Bhubaneswar,East,Small Business
+C0252,Customer 0252,Female,58,Gurugram,North,Corporate
+C0253,Customer 0253,Female,30,Mysuru,South,Small Business
+C0254,Customer 0254,Male,42,Jaipur,North,Small Business
+C0255,Customer 0255,Male,19,Pune,West,Consumer
+C0256,Customer 0256,Male,59,Noida,North,Small Business
+C0257,Customer 0257,Male,21,Bhubaneswar,East,Consumer
+C0258,Customer 0258,Male,41,Chennai,South,Consumer
+C0259,Customer 0259,Male,21,Mysuru,South,Small Business
+C0260,Customer 0260,Male,38,Ranchi,East,Small Business
+C0261,Customer 0261,Female,37,Mysuru,South,Corporate
+C0262,Customer 0262,Male,29,Mysuru,South,Corporate
+C0263,Customer 0263,Male,42,Kochi,South,Corporate
+C0264,Customer 0264,Female,21,Bengaluru,South,Small Business
+C0265,Customer 0265,Female,38,Ahmedabad,West,Consumer
+C0266,Customer 0266,Female,24,Kolkata,East,Small Business
+C0267,Customer 0267,Male,62,Kolkata,East,Corporate
+C0268,Customer 0268,Male,50,Mumbai,West,Consumer
+C0269,Customer 0269,Female,40,Kolkata,East,Consumer
+C0270,Customer 0270,Male,38,Mysuru,South,Small Business
+C0271,Customer 0271,Female,63,Ranchi,East,Corporate
+C0272,Customer 0272,Female,56,Jaipur,North,Small Business
+C0273,Customer 0273,Male,42,Kochi,South,Corporate
+C0274,Customer 0274,Male,33,Bhubaneswar,East,Consumer
+C0275,Customer 0275,Female,19,Bhubaneswar,East,Corporate
+C0276,Customer 0276,Male,62,Surat,West,Consumer
+C0277,Customer 0277,Male,29,Mumbai,West,Small Business
+C0278,Customer 0278,Male,48,Ranchi,East,Consumer
+C0279,Customer 0279,Male,27,Lucknow,North,Corporate
+C0280,Customer 0280,Female,52,Indore,Central,Corporate
+C0281,Customer 0281,Male,30,Delhi,North,Consumer
+C0282,Customer 0282,Female,58,Bhubaneswar,East,Corporate
+C0283,Customer 0283,Female,37,Chennai,South,Small Business
+C0284,Customer 0284,Female,47,Kolkata,East,Consumer
+C0285,Customer 0285,Male,53,Mysuru,South,Corporate
+C0286,Customer 0286,Male,62,Patna,East,Small Business
+C0287,Customer 0287,Male,43,Mumbai,West,Small Business
+C0288,Customer 0288,Female,35,Kochi,South,Corporate
+C0289,Customer 0289,Female,32,Ahmedabad,West,Corporate
+C0290,Customer 0290,Female,36,Gurugram,North,Corporate
+C0291,Customer 0291,Male,58,Chennai,South,Corporate
+C0292,Customer 0292,Male,19,Bengaluru,South,Corporate
+C0293,Customer 0293,Female,48,Indore,Central,Corporate
+C0294,Customer 0294,Male,18,Pune,West,Corporate
+C0295,Customer 0295,Male,30,Mumbai,West,Consumer
+C0296,Customer 0296,Female,51,Hyderabad,South,Corporate
+C0297,Customer 0297,Male,24,Ahmedabad,West,Corporate
+C0298,Customer 0298,Male,37,Chennai,South,Consumer
+C0299,Customer 0299,Female,43,Lucknow,North,Corporate
+C0300,Customer 0300,Female,56,Mysuru,South,Corporate
+C0301,Customer 0301,Male,65,Patna,East,Small Business
+C0302,Customer 0302,Female,42,Kochi,South,Small Business
+C0303,Customer 0303,Female,47,Chandigarh,North,Small Business
+C0304,Customer 0304,Female,21,Surat,West,Consumer
+C0305,Customer 0305,Female,56,Bengaluru,South,Corporate
+C0306,Customer 0306,Female,64,Hyderabad,South,Corporate
+C0307,Customer 0307,Female,23,Ahmedabad,West,Small Business
+C0308,Customer 0308,Male,57,Lucknow,North,Small Business
+C0309,Customer 0309,Female,48,Indore,Central,Corporate
+C0310,Customer 0310,Male,32,Delhi,North,Consumer
+C0311,Customer 0311,Female,64,Bengaluru,South,Corporate
+C0312,Customer 0312,Female,59,Patna,East,Corporate
+C0313,Customer 0313,Female,29,Mumbai,West,Corporate
+C0314,Customer 0314,Female,49,Noida,North,Consumer
+C0315,Customer 0315,Female,43,Jaipur,North,Small Business
+C0316,Customer 0316,Female,39,Chandigarh,North,Small Business
+C0317,Customer 0317,Male,20,Jaipur,North,Corporate
+C0318,Customer 0318,Male,35,Indore,Central,Consumer
+C0319,Customer 0319,Female,54,Ranchi,East,Small Business
+C0320,Customer 0320,Female,18,Kochi,South,Small Business
+C0321,Customer 0321,Female,36,Mysuru,South,Small Business
+C0322,Customer 0322,Male,61,Pune,West,Consumer
+C0323,Customer 0323,Female,29,Gurugram,North,Small Business
+C0324,Customer 0324,Male,63,Ahmedabad,West,Corporate
+C0325,Customer 0325,Female,43,Chandigarh,North,Consumer
+C0326,Customer 0326,Male,51,Kolkata,East,Small Business
+C0327,Customer 0327,Female,30,Hyderabad,South,Consumer
+C0328,Customer 0328,Female,43,Ahmedabad,West,Corporate
+C0329,Customer 0329,Female,61,Kolkata,East,Consumer
+C0330,Customer 0330,Female,39,Mysuru,South,Corporate
+C0331,Customer 0331,Male,44,Gurugram,North,Small Business
+C0332,Customer 0332,Male,50,Patna,East,Consumer
+C0333,Customer 0333,Male,39,Kochi,South,Small Business
+C0334,Customer 0334,Female,43,Ahmedabad,West,Small Business
+C0335,Customer 0335,Male,55,Hyderabad,South,Corporate
+C0336,Customer 0336,Male,23,Bengaluru,South,Corporate
+C0337,Customer 0337,Female,59,Lucknow,North,Small Business
+C0338,Customer 0338,Female,20,Mysuru,South,Corporate
+C0339,Customer 0339,Female,28,Surat,West,Corporate
+C0340,Customer 0340,Male,22,Mumbai,West,Corporate
+C0341,Customer 0341,Male,34,Noida,North,Consumer
+C0342,Customer 0342,Male,32,Chennai,South,Corporate
+C0343,Customer 0343,Female,60,Indore,Central,Corporate
+C0344,Customer 0344,Male,60,Ahmedabad,West,Small Business
+C0345,Customer 0345,Female,42,Indore,Central,Corporate
+C0346,Customer 0346,Male,34,Indore,Central,Small Business
+C0347,Customer 0347,Male,44,Pune,West,Consumer
+C0348,Customer 0348,Female,32,Patna,East,Corporate
+C0349,Customer 0349,Female,28,Indore,Central,Corporate
+C0350,Customer 0350,Female,19,Hyderabad,South,Consumer
+C0351,Customer 0351,Male,32,Patna,East,Consumer
+C0352,Customer 0352,Male,34,Lucknow,North,Small Business
+C0353,Customer 0353,Male,20,Delhi,North,Corporate
+C0354,Customer 0354,Female,46,Chandigarh,North,Small Business
+C0355,Customer 0355,Male,59,Hyderabad,South,Corporate
+C0356,Customer 0356,Female,46,Ranchi,East,Small Business
+C0357,Customer 0357,Female,50,Chandigarh,North,Small Business
+C0358,Customer 0358,Female,40,Chandigarh,North,Consumer
+C0359,Customer 0359,Female,33,Lucknow,North,Consumer
+C0360,Customer 0360,Female,33,Ahmedabad,West,Small Business
+C0361,Customer 0361,Female,62,Kolkata,East,Corporate
+C0362,Customer 0362,Male,63,Gurugram,North,Small Business
+C0363,Customer 0363,Male,32,Mysuru,South,Consumer
+C0364,Customer 0364,Male,45,Noida,North,Consumer
+C0365,Customer 0365,Male,30,Indore,Central,Corporate
+C0366,Customer 0366,Male,20,Kolkata,East,Consumer
+C0367,Customer 0367,Male,48,Patna,East,Corporate
+C0368,Customer 0368,Male,61,Kolkata,East,Small Business
+C0369,Customer 0369,Male,64,Ahmedabad,West,Consumer
+C0370,Customer 0370,Male,29,Surat,West,Corporate
+C0371,Customer 0371,Male,31,Lucknow,North,Consumer
+C0372,Customer 0372,Female,25,Ahmedabad,West,Consumer
+C0373,Customer 0373,Female,31,Gurugram,North,Corporate
+C0374,Customer 0374,Male,37,Delhi,North,Corporate
+C0375,Customer 0375,Female,40,Chennai,South,Small Business
+C0376,Customer 0376,Male,28,Bengaluru,South,Consumer
+C0377,Customer 0377,Male,61,Chennai,South,Corporate
+C0378,Customer 0378,Female,34,Patna,East,Consumer
+C0379,Customer 0379,Male,29,Mysuru,South,Small Business
+C0380,Customer 0380,Male,41,Surat,West,Corporate
+C0381,Customer 0381,Female,27,Patna,East,Consumer
+C0382,Customer 0382,Male,33,Hyderabad,South,Consumer
+C0383,Customer 0383,Female,22,Delhi,North,Consumer
+C0384,Customer 0384,Male,57,Ranchi,East,Consumer
+C0385,Customer 0385,Male,51,Lucknow,North,Corporate
+C0386,Customer 0386,Male,22,Surat,West,Corporate
+C0387,Customer 0387,Female,50,Jaipur,North,Small Business
+C0388,Customer 0388,Male,31,Surat,West,Small Business
+C0389,Customer 0389,Female,39,Bengaluru,South,Consumer
+C0390,Customer 0390,Female,65,Patna,East,Small Business
+C0391,Customer 0391,Male,29,Chandigarh,North,Small Business
+C0392,Customer 0392,Male,64,Chennai,South,Corporate
+C0393,Customer 0393,Female,21,Ranchi,East,Corporate
+C0394,Customer 0394,Female,25,Mysuru,South,Consumer
+C0395,Customer 0395,Female,23,Bengaluru,South,Corporate
+C0396,Customer 0396,Male,42,Chandigarh,North,Corporate
+C0397,Customer 0397,Male,57,Hyderabad,South,Consumer
+C0398,Customer 0398,Male,53,Patna,East,Corporate
+C0399,Customer 0399,Male,51,Pune,West,Consumer
+C0400,Customer 0400,Female,58,Kochi,South,Small Business
+C0401,Customer 0401,Female,57,Mumbai,West,Consumer
+C0402,Customer 0402,Female,25,Gurugram,North,Corporate
+C0403,Customer 0403,Male,55,Jaipur,North,Consumer
+C0404,Customer 0404,Female,20,Kochi,South,Consumer
+C0405,Customer 0405,Female,23,Kolkata,East,Small Business
+C0406,Customer 0406,Male,62,Chandigarh,North,Consumer
+C0407,Customer 0407,Female,45,Chennai,South,Corporate
+C0408,Customer 0408,Male,45,Pune,West,Small Business
+C0409,Customer 0409,Female,37,Noida,North,Corporate
+C0410,Customer 0410,Female,26,Lucknow,North,Consumer
+C0411,Customer 0411,Male,39,Mysuru,South,Corporate
+C0412,Customer 0412,Male,34,Gurugram,North,Corporate
+C0413,Customer 0413,Female,27,Indore,Central,Consumer
+C0414,Customer 0414,Female,25,Noida,North,Consumer
+C0415,Customer 0415,Female,58,Bhubaneswar,East,Consumer
+C0416,Customer 0416,Female,26,Hyderabad,South,Corporate
+C0417,Customer 0417,Male,54,Bengaluru,South,Small Business
+C0418,Customer 0418,Female,54,Bengaluru,South,Corporate
+C0419,Customer 0419,Female,52,Chandigarh,North,Small Business
+C0420,Customer 0420,Male,62,Gurugram,North,Corporate
+C0421,Customer 0421,Male,19,Ranchi,East,Small Business
+C0422,Customer 0422,Female,38,Pune,West,Corporate
+C0423,Customer 0423,Male,55,Ranchi,East,Small Business
+C0424,Customer 0424,Male,25,Kochi,South,Small Business
+C0425,Customer 0425,Male,35,Surat,West,Small Business
+C0426,Customer 0426,Male,50,Chandigarh,North,Consumer
+C0427,Customer 0427,Female,65,Ranchi,East,Small Business
+C0428,Customer 0428,Male,34,Jaipur,North,Corporate
+C0429,Customer 0429,Female,48,Patna,East,Small Business
+C0430,Customer 0430,Male,37,Hyderabad,South,Corporate
+C0431,Customer 0431,Female,49,Noida,North,Small Business
+C0432,Customer 0432,Female,63,Bengaluru,South,Corporate
+C0433,Customer 0433,Male,55,Ahmedabad,West,Small Business
+C0434,Customer 0434,Female,59,Kochi,South,Small Business
+C0435,Customer 0435,Male,18,Bengaluru,South,Consumer
+C0436,Customer 0436,Female,39,Ahmedabad,West,Consumer
+C0437,Customer 0437,Female,65,Jaipur,North,Corporate
+C0438,Customer 0438,Female,62,Bhubaneswar,East,Small Business
+C0439,Customer 0439,Male,48,Hyderabad,South,Consumer
+C0440,Customer 0440,Female,45,Mumbai,West,Corporate
+C0441,Customer 0441,Male,18,Pune,West,Corporate
+C0442,Customer 0442,Female,42,Chennai,South,Corporate
+C0443,Customer 0443,Male,34,Noida,North,Corporate
+C0444,Customer 0444,Male,54,Pune,West,Consumer
+C0445,Customer 0445,Male,32,Mumbai,West,Small Business
+C0446,Customer 0446,Male,19,Delhi,North,Small Business
+C0447,Customer 0447,Male,27,Mysuru,South,Consumer
+C0448,Customer 0448,Female,46,Surat,West,Small Business
+C0449,Customer 0449,Male,40,Mumbai,West,Consumer
+C0450,Customer 0450,Male,40,Indore,Central,Corporate
+C0451,Customer 0451,Male,39,Noida,North,Consumer
+C0452,Customer 0452,Male,18,Gurugram,North,Corporate
+C0453,Customer 0453,Female,29,Noida,North,Corporate
+C0454,Customer 0454,Male,60,Kochi,South,Consumer
+C0455,Customer 0455,Male,24,Jaipur,North,Consumer
+C0456,Customer 0456,Female,32,Mumbai,West,Small Business
+C0457,Customer 0457,Female,23,Kolkata,East,Small Business
+C0458,Customer 0458,Female,35,Hyderabad,South,Small Business
+C0459,Customer 0459,Male,37,Chennai,South,Consumer
+C0460,Customer 0460,Male,28,Ranchi,East,Corporate
+C0461,Customer 0461,Male,57,Ahmedabad,West,Small Business
+C0462,Customer 0462,Female,37,Mysuru,South,Corporate
+C0463,Customer 0463,Male,21,Bengaluru,South,Consumer
+C0464,Customer 0464,Male,23,Surat,West,Small Business
+C0465,Customer 0465,Female,43,Pune,West,Small Business
+C0466,Customer 0466,Male,58,Mysuru,South,Corporate
+C0467,Customer 0467,Male,23,Bhubaneswar,East,Small Business
+C0468,Customer 0468,Female,20,Delhi,North,Consumer
+C0469,Customer 0469,Female,37,Hyderabad,South,Consumer
+C0470,Customer 0470,Female,52,Jaipur,North,Consumer
+C0471,Customer 0471,Male,26,Pune,West,Small Business
+C0472,Customer 0472,Male,49,Hyderabad,South,Corporate
+C0473,Customer 0473,Male,26,Noida,North,Consumer
+C0474,Customer 0474,Female,24,Patna,East,Small Business
+C0475,Customer 0475,Female,53,Chennai,South,Corporate
+C0476,Customer 0476,Female,52,Bengaluru,South,Consumer
+C0477,Customer 0477,Male,32,Mumbai,West,Consumer
+C0478,Customer 0478,Female,21,Delhi,North,Small Business
+C0479,Customer 0479,Female,33,Delhi,North,Corporate
+C0480,Customer 0480,Male,39,Chandigarh,North,Corporate
+C0481,Customer 0481,Female,57,Pune,West,Corporate
+C0482,Customer 0482,Male,35,Pune,West,Consumer
+C0483,Customer 0483,Female,22,Lucknow,North,Corporate
+C0484,Customer 0484,Female,25,Bhubaneswar,East,Consumer
+C0485,Customer 0485,Female,64,Pune,West,Consumer
+C0486,Customer 0486,Male,59,Lucknow,North,Consumer
+C0487,Customer 0487,Male,25,Pune,West,Small Business
+C0488,Customer 0488,Male,61,Delhi,North,Corporate
+C0489,Customer 0489,Male,64,Noida,North,Corporate
+C0490,Customer 0490,Female,49,Bengaluru,South,Consumer
+C0491,Customer 0491,Female,24,Bhubaneswar,East,Small Business
+C0492,Customer 0492,Female,35,Bhubaneswar,East,Corporate
+C0493,Customer 0493,Male,57,Bhubaneswar,East,Small Business
+C0494,Customer 0494,Male,44,Kochi,South,Consumer
+C0495,Customer 0495,Male,20,Ranchi,East,Small Business
+C0496,Customer 0496,Female,20,Kochi,South,Small Business
+C0497,Customer 0497,Female,57,Hyderabad,South,Consumer
+C0498,Customer 0498,Female,43,Jaipur,North,Corporate
+C0499,Customer 0499,Female,54,Chandigarh,North,Consumer
+C0500,Customer 0500,Female,31,Chennai,South,Consumer
+C0501,Customer 0501,Male,37,Patna,East,Corporate
+C0502,Customer 0502,Male,38,Kolkata,East,Consumer
+C0503,Customer 0503,Female,41,Kolkata,East,Corporate
+C0504,Customer 0504,Female,49,Lucknow,North,Consumer
+C0505,Customer 0505,Female,52,Ahmedabad,West,Corporate
+C0506,Customer 0506,Female,49,Mumbai,West,Corporate
+C0507,Customer 0507,Male,47,Noida,North,Small Business
+C0508,Customer 0508,Male,44,Bengaluru,South,Consumer
+C0509,Customer 0509,Female,65,Noida,North,Small Business
+C0510,Customer 0510,Male,65,Chennai,South,Corporate
+C0511,Customer 0511,Female,53,Chandigarh,North,Small Business
+C0512,Customer 0512,Female,39,Chandigarh,North,Corporate
+C0513,Customer 0513,Female,26,Kolkata,East,Consumer
+C0514,Customer 0514,Female,52,Pune,West,Corporate
+C0515,Customer 0515,Female,36,Mysuru,South,Corporate
+C0516,Customer 0516,Female,25,Patna,East,Small Business
+C0517,Customer 0517,Female,52,Chennai,South,Small Business
+C0518,Customer 0518,Male,27,Mumbai,West,Corporate
+C0519,Customer 0519,Male,51,Ahmedabad,West,Corporate
+C0520,Customer 0520,Male,30,Surat,West,Consumer
+C0521,Customer 0521,Male,33,Bhubaneswar,East,Small Business
+C0522,Customer 0522,Female,53,Gurugram,North,Corporate
+C0523,Customer 0523,Male,60,Mumbai,West,Consumer
+C0524,Customer 0524,Male,25,Bhubaneswar,East,Small Business
+C0525,Customer 0525,Female,54,Ranchi,East,Consumer
+C0526,Customer 0526,Female,26,Ranchi,East,Consumer
+C0527,Customer 0527,Male,54,Patna,East,Consumer
+C0528,Customer 0528,Male,31,Chandigarh,North,Small Business
+C0529,Customer 0529,Female,53,Ranchi,East,Consumer
+C0530,Customer 0530,Female,44,Indore,Central,Small Business
+C0531,Customer 0531,Female,45,Kolkata,East,Corporate
+C0532,Customer 0532,Male,32,Mysuru,South,Corporate
+C0533,Customer 0533,Male,52,Noida,North,Small Business
+C0534,Customer 0534,Male,39,Bengaluru,South,Small Business
+C0535,Customer 0535,Male,43,Bengaluru,South,Corporate
+C0536,Customer 0536,Female,64,Mysuru,South,Corporate
+C0537,Customer 0537,Male,26,Pune,West,Small Business
+C0538,Customer 0538,Female,33,Bhubaneswar,East,Consumer
+C0539,Customer 0539,Female,51,Patna,East,Corporate
+C0540,Customer 0540,Female,57,Ahmedabad,West,Corporate
+C0541,Customer 0541,Male,37,Bhubaneswar,East,Small Business
+C0542,Customer 0542,Female,33,Indore,Central,Small Business
+C0543,Customer 0543,Female,19,Ranchi,East,Small Business
+C0544,Customer 0544,Female,29,Indore,Central,Small Business
+C0545,Customer 0545,Male,48,Gurugram,North,Corporate
+C0546,Customer 0546,Male,47,Kochi,South,Corporate
+C0547,Customer 0547,Male,32,Hyderabad,South,Consumer
+C0548,Customer 0548,Female,35,Surat,West,Corporate
+C0549,Customer 0549,Male,49,Chandigarh,North,Small Business
+C0550,Customer 0550,Female,45,Chandigarh,North,Consumer
+C0551,Customer 0551,Male,19,Pune,West,Corporate
+C0552,Customer 0552,Female,24,Surat,West,Small Business
+C0553,Customer 0553,Male,51,Jaipur,North,Small Business
+C0554,Customer 0554,Male,23,Hyderabad,South,Corporate
+C0555,Customer 0555,Female,31,Surat,West,Consumer
+C0556,Customer 0556,Male,19,Ranchi,East,Corporate
+C0557,Customer 0557,Female,60,Ahmedabad,West,Small Business
+C0558,Customer 0558,Female,48,Chandigarh,North,Consumer
+C0559,Customer 0559,Male,46,Ranchi,East,Small Business
+C0560,Customer 0560,Male,40,Jaipur,North,Small Business
+C0561,Customer 0561,Female,39,Jaipur,North,Consumer
+C0562,Customer 0562,Female,45,Mysuru,South,Consumer
+C0563,Customer 0563,Male,42,Lucknow,North,Corporate
+C0564,Customer 0564,Female,32,Jaipur,North,Small Business
+C0565,Customer 0565,Female,18,Kolkata,East,Small Business
+C0566,Customer 0566,Female,19,Delhi,North,Corporate
+C0567,Customer 0567,Male,50,Gurugram,North,Small Business
+C0568,Customer 0568,Female,33,Gurugram,North,Consumer
+C0569,Customer 0569,Male,26,Chandigarh,North,Corporate
+C0570,Customer 0570,Male,35,Jaipur,North,Small Business
+C0571,Customer 0571,Male,33,Kolkata,East,Small Business
+C0572,Customer 0572,Female,61,Kochi,South,Small Business
+C0573,Customer 0573,Male,36,Ranchi,East,Consumer
+C0574,Customer 0574,Female,52,Jaipur,North,Small Business
+C0575,Customer 0575,Male,28,Lucknow,North,Small Business
+C0576,Customer 0576,Male,45,Chandigarh,North,Small Business
+C0577,Customer 0577,Male,33,Ranchi,East,Consumer
+C0578,Customer 0578,Female,31,Mumbai,West,Consumer
+C0579,Customer 0579,Male,28,Bengaluru,South,Consumer
+C0580,Customer 0580,Male,58,Noida,North,Small Business
+C0581,Customer 0581,Male,34,Noida,North,Corporate
+C0582,Customer 0582,Female,34,Mysuru,South,Consumer
+C0583,Customer 0583,Male,21,Delhi,North,Small Business
+C0584,Customer 0584,Female,44,Chandigarh,North,Corporate
+C0585,Customer 0585,Female,20,Surat,West,Consumer
+C0586,Customer 0586,Male,44,Ahmedabad,West,Small Business
+C0587,Customer 0587,Male,33,Chennai,South,Small Business
+C0588,Customer 0588,Female,43,Jaipur,North,Small Business
+C0589,Customer 0589,Male,32,Mysuru,South,Corporate
+C0590,Customer 0590,Male,48,Ahmedabad,West,Consumer
+C0591,Customer 0591,Female,64,Hyderabad,South,Consumer
+C0592,Customer 0592,Male,34,Kolkata,East,Consumer
+C0593,Customer 0593,Male,20,Lucknow,North,Small Business
+C0594,Customer 0594,Male,51,Noida,North,Small Business
+C0595,Customer 0595,Male,65,Patna,East,Corporate
+C0596,Customer 0596,Male,62,Lucknow,North,Corporate
+C0597,Customer 0597,Female,63,Lucknow,North,Small Business
+C0598,Customer 0598,Female,39,Indore,Central,Consumer
+C0599,Customer 0599,Male,40,Hyderabad,South,Corporate
+C0600,Customer 0600,Male,30,Ranchi,East,Small Business
+C0601,Customer 0601,Female,53,Delhi,North,Corporate
+C0602,Customer 0602,Female,35,Pune,West,Small Business
+C0603,Customer 0603,Male,43,Surat,West,Consumer
+C0604,Customer 0604,Female,35,Ranchi,East,Corporate
+C0605,Customer 0605,Male,31,Hyderabad,South,Corporate
+C0606,Customer 0606,Female,22,Chandigarh,North,Small Business
+C0607,Customer 0607,Female,25,Mumbai,West,Corporate
+C0608,Customer 0608,Male,24,Kolkata,East,Corporate
+C0609,Customer 0609,Male,39,Lucknow,North,Corporate
+C0610,Customer 0610,Female,58,Hyderabad,South,Consumer
+C0611,Customer 0611,Male,18,Pune,West,Consumer
+C0612,Customer 0612,Female,55,Chennai,South,Corporate
+C0613,Customer 0613,Male,58,Kolkata,East,Small Business
+C0614,Customer 0614,Male,57,Noida,North,Corporate
+C0615,Customer 0615,Female,40,Bhubaneswar,East,Consumer
+C0616,Customer 0616,Male,40,Mumbai,West,Corporate
+C0617,Customer 0617,Male,32,Surat,West,Small Business
+C0618,Customer 0618,Male,60,Delhi,North,Consumer
+C0619,Customer 0619,Male,23,Ahmedabad,West,Corporate
+C0620,Customer 0620,Male,21,Bengaluru,South,Consumer
+C0621,Customer 0621,Female,26,Kochi,South,Consumer
+C0622,Customer 0622,Male,29,Mumbai,West,Consumer
+C0623,Customer 0623,Male,34,Bengaluru,South,Consumer
+C0624,Customer 0624,Female,38,Ranchi,East,Consumer
+C0625,Customer 0625,Female,19,Bhubaneswar,East,Small Business
+C0626,Customer 0626,Male,54,Kochi,South,Consumer
+C0627,Customer 0627,Male,40,Noida,North,Corporate
+C0628,Customer 0628,Male,27,Ahmedabad,West,Small Business
+C0629,Customer 0629,Female,22,Indore,Central,Small Business
+C0630,Customer 0630,Female,24,Kochi,South,Small Business
+C0631,Customer 0631,Male,28,Ahmedabad,West,Corporate
+C0632,Customer 0632,Male,40,Noida,North,Small Business
+C0633,Customer 0633,Female,61,Noida,North,Small Business
+C0634,Customer 0634,Male,56,Ranchi,East,Small Business
+C0635,Customer 0635,Male,43,Mumbai,West,Corporate
+C0636,Customer 0636,Female,63,Chandigarh,North,Corporate
+C0637,Customer 0637,Male,56,Bhubaneswar,East,Corporate
+C0638,Customer 0638,Male,49,Surat,West,Consumer
+C0639,Customer 0639,Male,65,Jaipur,North,Consumer
+C0640,Customer 0640,Female,19,Kolkata,East,Corporate
+C0641,Customer 0641,Male,50,Chennai,South,Corporate
+C0642,Customer 0642,Male,56,Ahmedabad,West,Corporate
+C0643,Customer 0643,Female,56,Pune,West,Small Business
+C0644,Customer 0644,Male,55,Mysuru,South,Consumer
+C0645,Customer 0645,Male,64,Chandigarh,North,Corporate
+C0646,Customer 0646,Male,31,Pune,West,Corporate
+C0647,Customer 0647,Female,35,Pune,West,Consumer
+C0648,Customer 0648,Male,21,Indore,Central,Corporate
+C0649,Customer 0649,Male,32,Bengaluru,South,Consumer
+C0650,Customer 0650,Female,64,Bengaluru,South,Corporate
+C0651,Customer 0651,Male,55,Patna,East,Corporate
+C0652,Customer 0652,Female,43,Kolkata,East,Consumer
+C0653,Customer 0653,Female,64,Bengaluru,South,Small Business
+C0654,Customer 0654,Female,23,Lucknow,North,Small Business
+C0655,Customer 0655,Male,49,Indore,Central,Small Business
+C0656,Customer 0656,Male,22,Bhubaneswar,East,Small Business
+C0657,Customer 0657,Female,64,Ranchi,East,Consumer
+C0658,Customer 0658,Male,62,Hyderabad,South,Small Business
+C0659,Customer 0659,Female,21,Ranchi,East,Consumer
+C0660,Customer 0660,Female,25,Mumbai,West,Small Business
+C0661,Customer 0661,Male,27,Jaipur,North,Corporate
+C0662,Customer 0662,Male,45,Surat,West,Small Business
+C0663,Customer 0663,Male,60,Ranchi,East,Small Business
+C0664,Customer 0664,Male,58,Indore,Central,Corporate
+C0665,Customer 0665,Male,50,Noida,North,Consumer
+C0666,Customer 0666,Female,25,Ahmedabad,West,Corporate
+C0667,Customer 0667,Female,29,Jaipur,North,Small Business
+C0668,Customer 0668,Female,56,Noida,North,Small Business
+C0669,Customer 0669,Male,62,Patna,East,Corporate
+C0670,Customer 0670,Female,45,Indore,Central,Corporate
+C0671,Customer 0671,Male,36,Gurugram,North,Small Business
+C0672,Customer 0672,Male,29,Bengaluru,South,Corporate
+C0673,Customer 0673,Female,53,Hyderabad,South,Corporate
+C0674,Customer 0674,Male,62,Ranchi,East,Corporate
+C0675,Customer 0675,Male,24,Gurugram,North,Consumer
+C0676,Customer 0676,Female,28,Patna,East,Small Business
+C0677,Customer 0677,Male,51,Noida,North,Consumer
+C0678,Customer 0678,Female,21,Mysuru,South,Consumer
+C0679,Customer 0679,Female,42,Ranchi,East,Corporate
+C0680,Customer 0680,Female,45,Ahmedabad,West,Consumer
+C0681,Customer 0681,Female,23,Hyderabad,South,Corporate
+C0682,Customer 0682,Female,24,Kolkata,East,Consumer
+C0683,Customer 0683,Male,64,Chennai,South,Corporate
+C0684,Customer 0684,Male,39,Ranchi,East,Consumer
+C0685,Customer 0685,Male,41,Chennai,South,Corporate
+C0686,Customer 0686,Male,42,Lucknow,North,Small Business
+C0687,Customer 0687,Male,28,Lucknow,North,Small Business
+C0688,Customer 0688,Female,29,Ahmedabad,West,Consumer
+C0689,Customer 0689,Female,65,Chennai,South,Small Business
+C0690,Customer 0690,Female,35,Patna,East,Corporate
+C0691,Customer 0691,Male,35,Gurugram,North,Consumer
+C0692,Customer 0692,Female,35,Jaipur,North,Small Business
+C0693,Customer 0693,Female,49,Surat,West,Consumer
+C0694,Customer 0694,Female,44,Jaipur,North,Consumer
+C0695,Customer 0695,Female,36,Bengaluru,South,Consumer
+C0696,Customer 0696,Female,54,Mumbai,West,Small Business
+C0697,Customer 0697,Male,31,Ranchi,East,Consumer
+C0698,Customer 0698,Female,62,Delhi,North,Consumer
+C0699,Customer 0699,Female,21,Mysuru,South,Small Business
+C0700,Customer 0700,Female,51,Patna,East,Corporate
+C0701,Customer 0701,Male,65,Kolkata,East,Consumer
+C0702,Customer 0702,Female,31,Lucknow,North,Consumer
+C0703,Customer 0703,Male,42,Kolkata,East,Consumer
+C0704,Customer 0704,Female,27,Lucknow,North,Consumer
+C0705,Customer 0705,Female,24,Kochi,South,Small Business
+C0706,Customer 0706,Female,24,Bengaluru,South,Small Business
+C0707,Customer 0707,Female,35,Hyderabad,South,Small Business
+C0708,Customer 0708,Male,62,Hyderabad,South,Small Business
+C0709,Customer 0709,Female,36,Mumbai,West,Corporate
+C0710,Customer 0710,Female,28,Indore,Central,Small Business
+C0711,Customer 0711,Female,54,Ahmedabad,West,Corporate
+C0712,Customer 0712,Male,59,Surat,West,Corporate
+C0713,Customer 0713,Male,27,Chandigarh,North,Corporate
+C0714,Customer 0714,Male,52,Gurugram,North,Consumer
+C0715,Customer 0715,Female,52,Chennai,South,Corporate
+C0716,Customer 0716,Female,58,Lucknow,North,Corporate
+C0717,Customer 0717,Male,33,Noida,North,Consumer
+C0718,Customer 0718,Male,31,Patna,East,Small Business
+C0719,Customer 0719,Male,36,Bhubaneswar,East,Corporate
+C0720,Customer 0720,Female,59,Kochi,South,Small Business
+C0721,Customer 0721,Male,45,Delhi,North,Consumer
+C0722,Customer 0722,Male,62,Pune,West,Consumer
+C0723,Customer 0723,Male,25,Gurugram,North,Corporate
+C0724,Customer 0724,Female,30,Pune,West,Corporate
+C0725,Customer 0725,Female,56,Kochi,South,Consumer
+C0726,Customer 0726,Female,59,Bengaluru,South,Corporate
+C0727,Customer 0727,Female,47,Kochi,South,Small Business
+C0728,Customer 0728,Male,23,Gurugram,North,Consumer
+C0729,Customer 0729,Male,37,Surat,West,Corporate
+C0730,Customer 0730,Female,58,Hyderabad,South,Corporate
+C0731,Customer 0731,Female,23,Mumbai,West,Corporate
+C0732,Customer 0732,Male,47,Ahmedabad,West,Consumer
+C0733,Customer 0733,Female,26,Lucknow,North,Small Business
+C0734,Customer 0734,Male,56,Lucknow,North,Consumer
+C0735,Customer 0735,Female,61,Kolkata,East,Consumer
+C0736,Customer 0736,Female,54,Mysuru,South,Consumer
+C0737,Customer 0737,Male,46,Bhubaneswar,East,Corporate
+C0738,Customer 0738,Female,19,Bengaluru,South,Corporate
+C0739,Customer 0739,Male,31,Ranchi,East,Small Business
+C0740,Customer 0740,Male,42,Noida,North,Corporate
+C0741,Customer 0741,Male,64,Ranchi,East,Consumer
+C0742,Customer 0742,Female,29,Mysuru,South,Consumer
+C0743,Customer 0743,Female,47,Mysuru,South,Consumer
+C0744,Customer 0744,Female,18,Chennai,South,Corporate
+C0745,Customer 0745,Female,31,Surat,West,Corporate
+C0746,Customer 0746,Male,56,Mysuru,South,Small Business
+C0747,Customer 0747,Female,53,Mysuru,South,Small Business
+C0748,Customer 0748,Male,39,Ranchi,East,Corporate
+C0749,Customer 0749,Female,54,Lucknow,North,Corporate
+C0750,Customer 0750,Male,38,Mumbai,West,Corporate
+C0751,Customer 0751,Female,62,Kolkata,East,Small Business
+C0752,Customer 0752,Male,46,Mysuru,South,Corporate
+C0753,Customer 0753,Female,35,Hyderabad,South,Corporate
+C0754,Customer 0754,Female,41,Delhi,North,Corporate
+C0755,Customer 0755,Male,46,Bengaluru,South,Small Business
+C0756,Customer 0756,Male,36,Mumbai,West,Consumer
+C0757,Customer 0757,Female,23,Pune,West,Small Business
+C0758,Customer 0758,Female,53,Jaipur,North,Consumer
+C0759,Customer 0759,Male,22,Chennai,South,Small Business
+C0760,Customer 0760,Male,31,Bhubaneswar,East,Consumer
+C0761,Customer 0761,Male,33,Pune,West,Corporate
+C0762,Customer 0762,Female,52,Lucknow,North,Small Business
+C0763,Customer 0763,Female,58,Lucknow,North,Consumer
+C0764,Customer 0764,Male,55,Kolkata,East,Corporate
+C0765,Customer 0765,Male,36,Bhubaneswar,East,Consumer
+C0766,Customer 0766,Male,36,Jaipur,North,Consumer
+C0767,Customer 0767,Female,57,Mysuru,South,Small Business
+C0768,Customer 0768,Male,38,Gurugram,North,Corporate
+C0769,Customer 0769,Female,45,Jaipur,North,Small Business
+C0770,Customer 0770,Female,27,Gurugram,North,Corporate
+C0771,Customer 0771,Female,31,Ahmedabad,West,Consumer
+C0772,Customer 0772,Male,26,Mumbai,West,Consumer
+C0773,Customer 0773,Male,34,Jaipur,North,Corporate
+C0774,Customer 0774,Male,61,Mysuru,South,Small Business
+C0775,Customer 0775,Male,26,Lucknow,North,Consumer
+C0776,Customer 0776,Male,18,Pune,West,Corporate
+C0777,Customer 0777,Male,59,Mysuru,South,Corporate
+C0778,Customer 0778,Male,43,Ranchi,East,Small Business
+C0779,Customer 0779,Female,35,Noida,North,Corporate
+C0780,Customer 0780,Female,19,Hyderabad,South,Small Business
+C0781,Customer 0781,Female,40,Hyderabad,South,Corporate
+C0782,Customer 0782,Female,57,Ahmedabad,West,Small Business
+C0783,Customer 0783,Female,35,Bengaluru,South,Corporate
+C0784,Customer 0784,Male,52,Kolkata,East,Consumer
+C0785,Customer 0785,Male,40,Chennai,South,Corporate
+C0786,Customer 0786,Male,39,Surat,West,Corporate
+C0787,Customer 0787,Female,48,Kolkata,East,Small Business
+C0788,Customer 0788,Male,52,Indore,Central,Consumer
+C0789,Customer 0789,Female,21,Lucknow,North,Small Business
+C0790,Customer 0790,Female,50,Kolkata,East,Small Business
+C0791,Customer 0791,Female,25,Gurugram,North,Consumer
+C0792,Customer 0792,Male,53,Gurugram,North,Consumer
+C0793,Customer 0793,Female,48,Bhubaneswar,East,Small Business
+C0794,Customer 0794,Male,65,Ahmedabad,West,Corporate
+C0795,Customer 0795,Male,28,Hyderabad,South,Consumer
+C0796,Customer 0796,Male,53,Jaipur,North,Consumer
+C0797,Customer 0797,Female,54,Hyderabad,South,Corporate
+C0798,Customer 0798,Female,18,Noida,North,Small Business
+C0799,Customer 0799,Male,53,Kochi,South,Consumer
+C0800,Customer 0800,Female,64,Jaipur,North,Consumer
+C0801,Customer 0801,Female,54,Ranchi,East,Consumer
+C0802,Customer 0802,Female,65,Chandigarh,North,Small Business
+C0803,Customer 0803,Male,64,Ahmedabad,West,Consumer
+C0804,Customer 0804,Female,44,Mumbai,West,Consumer
+C0805,Customer 0805,Male,65,Delhi,North,Corporate
+C0806,Customer 0806,Male,55,Kochi,South,Small Business
+C0807,Customer 0807,Female,45,Hyderabad,South,Corporate
+C0808,Customer 0808,Female,58,Mysuru,South,Consumer
+C0809,Customer 0809,Male,45,Kochi,South,Corporate
+C0810,Customer 0810,Female,60,Pune,West,Consumer
+C0811,Customer 0811,Male,61,Jaipur,North,Corporate
+C0812,Customer 0812,Female,54,Mysuru,South,Consumer
+C0813,Customer 0813,Male,34,Gurugram,North,Small Business
+C0814,Customer 0814,Male,29,Lucknow,North,Consumer
+C0815,Customer 0815,Male,45,Lucknow,North,Corporate
+C0816,Customer 0816,Male,53,Ahmedabad,West,Small Business
+C0817,Customer 0817,Female,53,Bengaluru,South,Small Business
+C0818,Customer 0818,Female,25,Gurugram,North,Corporate
+C0819,Customer 0819,Male,29,Kochi,South,Small Business
+C0820,Customer 0820,Male,65,Noida,North,Small Business
+C0821,Customer 0821,Female,64,Noida,North,Consumer
+C0822,Customer 0822,Male,24,Ahmedabad,West,Consumer
+C0823,Customer 0823,Male,37,Lucknow,North,Corporate
+C0824,Customer 0824,Male,27,Jaipur,North,Small Business
+C0825,Customer 0825,Female,43,Jaipur,North,Small Business
+C0826,Customer 0826,Male,46,Hyderabad,South,Consumer
+C0827,Customer 0827,Male,31,Gurugram,North,Consumer
+C0828,Customer 0828,Female,42,Delhi,North,Corporate
+C0829,Customer 0829,Male,37,Ranchi,East,Small Business
+C0830,Customer 0830,Male,30,Hyderabad,South,Consumer
+C0831,Customer 0831,Male,55,Noida,North,Corporate
+C0832,Customer 0832,Female,25,Ahmedabad,West,Consumer
+C0833,Customer 0833,Female,47,Pune,West,Small Business
+C0834,Customer 0834,Female,21,Jaipur,North,Consumer
+C0835,Customer 0835,Male,59,Bengaluru,South,Small Business
+C0836,Customer 0836,Male,22,Bengaluru,South,Corporate
+C0837,Customer 0837,Female,46,Bengaluru,South,Consumer
+C0838,Customer 0838,Female,25,Gurugram,North,Small Business
+C0839,Customer 0839,Female,64,Gurugram,North,Corporate
+C0840,Customer 0840,Female,26,Noida,North,Corporate
+C0841,Customer 0841,Female,20,Indore,Central,Small Business
+C0842,Customer 0842,Female,47,Lucknow,North,Consumer
+C0843,Customer 0843,Male,65,Ahmedabad,West,Consumer
+C0844,Customer 0844,Female,50,Mumbai,West,Corporate
+C0845,Customer 0845,Female,59,Bengaluru,South,Corporate
+C0846,Customer 0846,Female,64,Bhubaneswar,East,Small Business
+C0847,Customer 0847,Male,55,Kolkata,East,Small Business
+C0848,Customer 0848,Female,30,Chandigarh,North,Corporate
+C0849,Customer 0849,Male,34,Kolkata,East,Small Business
+C0850,Customer 0850,Female,18,Surat,West,Small Business
+C0851,Customer 0851,Female,25,Bhubaneswar,East,Small Business
+C0852,Customer 0852,Male,35,Pune,West,Corporate
+C0853,Customer 0853,Male,21,Kochi,South,Small Business
+C0854,Customer 0854,Male,46,Jaipur,North,Corporate
+C0855,Customer 0855,Female,22,Hyderabad,South,Consumer
+C0856,Customer 0856,Female,46,Bengaluru,South,Corporate
+C0857,Customer 0857,Female,41,Hyderabad,South,Small Business
+C0858,Customer 0858,Male,29,Kolkata,East,Small Business
+C0859,Customer 0859,Male,29,Jaipur,North,Corporate
+C0860,Customer 0860,Female,62,Chandigarh,North,Small Business
+C0861,Customer 0861,Male,39,Ranchi,East,Consumer
+C0862,Customer 0862,Female,33,Ranchi,East,Corporate
+C0863,Customer 0863,Male,40,Hyderabad,South,Consumer
+C0864,Customer 0864,Male,57,Surat,West,Small Business
+C0865,Customer 0865,Male,58,Kolkata,East,Corporate
+C0866,Customer 0866,Female,59,Ahmedabad,West,Consumer
+C0867,Customer 0867,Female,43,Pune,West,Consumer
+C0868,Customer 0868,Female,28,Bengaluru,South,Small Business
+C0869,Customer 0869,Female,32,Mysuru,South,Consumer
+C0870,Customer 0870,Female,37,Bengaluru,South,Small Business
+C0871,Customer 0871,Male,56,Kolkata,East,Consumer
+C0872,Customer 0872,Male,34,Ahmedabad,West,Small Business
+C0873,Customer 0873,Female,23,Ahmedabad,West,Corporate
+C0874,Customer 0874,Female,62,Pune,West,Corporate
+C0875,Customer 0875,Male,23,Gurugram,North,Corporate
+C0876,Customer 0876,Female,32,Noida,North,Consumer
+C0877,Customer 0877,Female,58,Delhi,North,Small Business
+C0878,Customer 0878,Male,64,Noida,North,Corporate
+C0879,Customer 0879,Male,30,Gurugram,North,Small Business
+C0880,Customer 0880,Female,50,Lucknow,North,Small Business
+C0881,Customer 0881,Male,57,Bhubaneswar,East,Consumer
+C0882,Customer 0882,Male,24,Chandigarh,North,Consumer
+C0883,Customer 0883,Male,36,Lucknow,North,Consumer
+C0884,Customer 0884,Female,22,Noida,North,Consumer
+C0885,Customer 0885,Male,43,Delhi,North,Small Business
+C0886,Customer 0886,Female,22,Mysuru,South,Small Business
+C0887,Customer 0887,Female,37,Delhi,North,Small Business
+C0888,Customer 0888,Female,39,Mumbai,West,Corporate
+C0889,Customer 0889,Female,37,Ranchi,East,Corporate
+C0890,Customer 0890,Male,26,Mysuru,South,Corporate
+C0891,Customer 0891,Male,38,Noida,North,Small Business
+C0892,Customer 0892,Male,38,Kolkata,East,Consumer
+C0893,Customer 0893,Male,56,Kolkata,East,Small Business
+C0894,Customer 0894,Male,63,Kochi,South,Small Business
+C0895,Customer 0895,Female,60,Hyderabad,South,Consumer
+C0896,Customer 0896,Female,27,Patna,East,Consumer
+C0897,Customer 0897,Male,39,Kolkata,East,Small Business
+C0898,Customer 0898,Female,23,Kochi,South,Consumer
+C0899,Customer 0899,Female,29,Indore,Central,Consumer
+C0900,Customer 0900,Female,31,Mumbai,West,Corporate
+C0901,Customer 0901,Female,25,Ahmedabad,West,Corporate
+C0902,Customer 0902,Male,33,Ranchi,East,Small Business
+C0903,Customer 0903,Female,44,Hyderabad,South,Small Business
+C0904,Customer 0904,Male,54,Hyderabad,South,Corporate
+C0905,Customer 0905,Male,38,Noida,North,Consumer
+C0906,Customer 0906,Male,33,Indore,Central,Corporate
+C0907,Customer 0907,Female,55,Bhubaneswar,East,Consumer
+C0908,Customer 0908,Female,40,Bhubaneswar,East,Corporate
+C0909,Customer 0909,Female,64,Delhi,North,Corporate
+C0910,Customer 0910,Male,21,Bengaluru,South,Corporate
+C0911,Customer 0911,Female,62,Mysuru,South,Corporate
+C0912,Customer 0912,Female,48,Indore,Central,Corporate
+C0913,Customer 0913,Female,23,Indore,Central,Consumer
+C0914,Customer 0914,Female,50,Ahmedabad,West,Corporate
+C0915,Customer 0915,Female,34,Bengaluru,South,Corporate
+C0916,Customer 0916,Male,64,Chennai,South,Small Business
+C0917,Customer 0917,Male,46,Bengaluru,South,Consumer
+C0918,Customer 0918,Male,24,Ahmedabad,West,Consumer
+C0919,Customer 0919,Male,49,Chennai,South,Corporate
+C0920,Customer 0920,Female,43,Pune,West,Small Business
+C0921,Customer 0921,Male,28,Mysuru,South,Corporate
+C0922,Customer 0922,Male,23,Indore,Central,Small Business
+C0923,Customer 0923,Male,37,Indore,Central,Corporate
+C0924,Customer 0924,Male,36,Lucknow,North,Corporate
+C0925,Customer 0925,Male,31,Mumbai,West,Small Business
+C0926,Customer 0926,Male,29,Lucknow,North,Small Business
+C0927,Customer 0927,Female,25,Ranchi,East,Small Business
+C0928,Customer 0928,Female,35,Surat,West,Small Business
+C0929,Customer 0929,Male,52,Bhubaneswar,East,Consumer
+C0930,Customer 0930,Male,50,Mumbai,West,Consumer
+C0931,Customer 0931,Female,54,Hyderabad,South,Small Business
+C0932,Customer 0932,Female,23,Delhi,North,Corporate
+C0933,Customer 0933,Female,52,Mumbai,West,Small Business
+C0934,Customer 0934,Female,33,Ahmedabad,West,Consumer
+C0935,Customer 0935,Female,50,Pune,West,Small Business
+C0936,Customer 0936,Male,63,Jaipur,North,Corporate
+C0937,Customer 0937,Female,39,Jaipur,North,Small Business
+C0938,Customer 0938,Female,45,Ranchi,East,Small Business
+C0939,Customer 0939,Male,19,Indore,Central,Consumer
+C0940,Customer 0940,Female,21,Hyderabad,South,Corporate
+C0941,Customer 0941,Female,45,Lucknow,North,Corporate
+C0942,Customer 0942,Male,50,Ahmedabad,West,Small Business
+C0943,Customer 0943,Male,38,Bhubaneswar,East,Consumer
+C0944,Customer 0944,Male,38,Bengaluru,South,Consumer
+C0945,Customer 0945,Female,65,Bengaluru,South,Corporate
+C0946,Customer 0946,Male,23,Noida,North,Small Business
+C0947,Customer 0947,Female,26,Indore,Central,Consumer
+C0948,Customer 0948,Male,23,Indore,Central,Consumer
+C0949,Customer 0949,Female,60,Chandigarh,North,Consumer
+C0950,Customer 0950,Male,18,Kochi,South,Consumer
+C0951,Customer 0951,Female,56,Ranchi,East,Consumer
+C0952,Customer 0952,Female,22,Delhi,North,Consumer
+C0953,Customer 0953,Female,28,Bengaluru,South,Corporate
+C0954,Customer 0954,Male,36,Kochi,South,Consumer
+C0955,Customer 0955,Female,48,Surat,West,Small Business
+C0956,Customer 0956,Male,44,Gurugram,North,Consumer
+C0957,Customer 0957,Female,34,Chennai,South,Corporate
+C0958,Customer 0958,Male,61,Kochi,South,Consumer
+C0959,Customer 0959,Female,24,Bhubaneswar,East,Small Business
+C0960,Customer 0960,Female,64,Lucknow,North,Small Business
+C0961,Customer 0961,Male,44,Patna,East,Consumer
+C0962,Customer 0962,Male,55,Ranchi,East,Corporate
+C0963,Customer 0963,Male,53,Mysuru,South,Consumer
+C0964,Customer 0964,Male,41,Gurugram,North,Small Business
+C0965,Customer 0965,Male,33,Pune,West,Corporate
+C0966,Customer 0966,Female,29,Bengaluru,South,Corporate
+C0967,Customer 0967,Female,43,Hyderabad,South,Small Business
+C0968,Customer 0968,Female,20,Jaipur,North,Consumer
+C0969,Customer 0969,Male,47,Patna,East,Corporate
+C0970,Customer 0970,Male,26,Kochi,South,Consumer
+C0971,Customer 0971,Male,45,Patna,East,Corporate
+C0972,Customer 0972,Male,21,Lucknow,North,Consumer
+C0973,Customer 0973,Female,45,Gurugram,North,Small Business
+C0974,Customer 0974,Male,47,Ahmedabad,West,Small Business
+C0975,Customer 0975,Male,32,Bengaluru,South,Small Business
+C0976,Customer 0976,Female,42,Bengaluru,South,Consumer
+C0977,Customer 0977,Female,52,Patna,East,Small Business
+C0978,Customer 0978,Female,29,Lucknow,North,Small Business
+C0979,Customer 0979,Female,55,Lucknow,North,Consumer
+C0980,Customer 0980,Female,20,Noida,North,Corporate
+C0981,Customer 0981,Female,41,Ranchi,East,Corporate
+C0982,Customer 0982,Female,42,Hyderabad,South,Consumer
+C0983,Customer 0983,Female,52,Kochi,South,Consumer
+C0984,Customer 0984,Female,26,Mysuru,South,Small Business
+C0985,Customer 0985,Male,52,Bengaluru,South,Corporate
+C0986,Customer 0986,Male,62,Bengaluru,South,Small Business
+C0987,Customer 0987,Female,19,Gurugram,North,Corporate
+C0988,Customer 0988,Male,36,Indore,Central,Consumer
+C0989,Customer 0989,Male,46,Mysuru,South,Small Business
+C0990,Customer 0990,Female,22,Bengaluru,South,Consumer
+C0991,Customer 0991,Female,49,Ranchi,East,Corporate
+C0992,Customer 0992,Female,55,Lucknow,North,Consumer
+C0993,Customer 0993,Female,40,Chennai,South,Small Business
+C0994,Customer 0994,Male,22,Gurugram,North,Small Business
+C0995,Customer 0995,Female,44,Hyderabad,South,Consumer
+C0996,Customer 0996,Male,50,Surat,West,Small Business
+C0997,Customer 0997,Male,32,Patna,East,Consumer
+C0998,Customer 0998,Male,54,Ahmedabad,West,Small Business
+C0999,Customer 0999,Male,42,Gurugram,North,Corporate
+C1000,Customer 1000,Female,53,Delhi,North,Corporate

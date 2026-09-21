@@ -1,0 +1,121 @@
+ProductID,ProductName,Category,BrandTier,UnitCost,UnitPrice
+P0001,Laptop 1,Electronics,Budget,37946.53,52107.98
+P0002,Laptop 2,Electronics,Budget,29338.14,35438.99
+P0003,Laptop 3,Electronics,Premium,39846.42,55571.12
+P0004,Laptop 4,Electronics,Premium,6998.15,10453.61
+P0005,Laptop 5,Electronics,Standard,2274.66,2941.81
+P0006,Smartphone 1,Electronics,Premium,19932.32,27051.68
+P0007,Smartphone 2,Electronics,Standard,23556.16,30383.16
+P0008,Smartphone 3,Electronics,Premium,27705.22,37037.97
+P0009,Smartphone 4,Electronics,Standard,29362.37,35362.09
+P0010,Smartphone 5,Electronics,Premium,11286.0,15555.2
+P0011,Tablet 1,Electronics,Premium,17824.13,27719.22
+P0012,Tablet 2,Electronics,Standard,23940.29,34635.8
+P0013,Tablet 3,Electronics,Budget,1129.14,1589.34
+P0014,Tablet 4,Electronics,Standard,19044.41,22856.03
+P0015,Tablet 5,Electronics,Premium,35259.5,57162.78
+P0016,Monitor 1,Electronics,Premium,27121.57,41548.13
+P0017,Monitor 2,Electronics,Standard,12923.62,19951.2
+P0018,Monitor 3,Electronics,Standard,41822.94,68610.63
+P0019,Monitor 4,Electronics,Budget,2049.22,2812.49
+P0020,Monitor 5,Electronics,Standard,6731.43,8872.99
+P0021,Headphones 1,Electronics,Premium,44445.99,51473.58
+P0022,Headphones 2,Electronics,Standard,37943.06,49779.42
+P0023,Headphones 3,Electronics,Premium,21668.96,35515.92
+P0024,Headphones 4,Electronics,Standard,6021.82,7080.82
+P0025,Headphones 5,Electronics,Budget,42551.93,54590.07
+P0026,Camera 1,Electronics,Standard,4217.97,5744.15
+P0027,Camera 2,Electronics,Budget,41865.23,58661.83
+P0028,Camera 3,Electronics,Budget,11758.78,16489.02
+P0029,Camera 4,Electronics,Premium,38699.96,53178.63
+P0030,Camera 5,Electronics,Premium,38518.07,51804.68
+P0031,Chair 1,Furniture,Premium,23952.94,39241.23
+P0032,Chair 2,Furniture,Premium,13667.82,15930.32
+P0033,Chair 3,Furniture,Budget,17723.92,22156.53
+P0034,Chair 4,Furniture,Budget,8282.27,12319.1
+P0035,Chair 5,Furniture,Standard,11966.87,15887.32
+P0036,Desk 1,Furniture,Standard,32296.32,44674.03
+P0037,Desk 2,Furniture,Premium,16354.26,25779.41
+P0038,Desk 3,Furniture,Standard,9740.31,15584.94
+P0039,Desk 4,Furniture,Standard,15517.87,18147.99
+P0040,Desk 5,Furniture,Standard,5708.62,7245.57
+P0041,Bookshelf 1,Furniture,Premium,33657.92,40907.03
+P0042,Bookshelf 2,Furniture,Budget,42170.29,61284.65
+P0043,Bookshelf 3,Furniture,Budget,32009.61,48231.87
+P0044,Bookshelf 4,Furniture,Budget,15467.99,19047.72
+P0045,Bookshelf 5,Furniture,Budget,23434.65,33198.11
+P0046,Sofa 1,Furniture,Premium,27647.96,31990.41
+P0047,Sofa 2,Furniture,Premium,41755.93,53543.09
+P0048,Sofa 3,Furniture,Premium,5004.99,6356.96
+P0049,Sofa 4,Furniture,Standard,12434.69,14503.88
+P0050,Sofa 5,Furniture,Premium,8803.44,11790.54
+P0051,Cabinet 1,Furniture,Standard,17424.77,22992.05
+P0052,Cabinet 2,Furniture,Premium,4174.45,4853.23
+P0053,Cabinet 3,Furniture,Standard,9214.83,14083.25
+P0054,Cabinet 4,Furniture,Budget,41794.4,58600.33
+P0055,Cabinet 5,Furniture,Premium,24002.3,31377.99
+P0056,Table 1,Furniture,Budget,34449.34,54159.05
+P0057,Table 2,Furniture,Premium,40313.38,55115.43
+P0058,Table 3,Furniture,Budget,36316.98,47365.69
+P0059,Table 4,Furniture,Budget,41826.51,50073.47
+P0060,Table 5,Furniture,Budget,34688.57,41509.57
+P0061,Notebook 1,Office Supplies,Budget,29581.9,34524.73
+P0062,Notebook 2,Office Supplies,Budget,35995.15,52236.35
+P0063,Notebook 3,Office Supplies,Budget,38580.19,46255.4
+P0064,Notebook 4,Office Supplies,Premium,18725.86,21932.27
+P0065,Notebook 5,Office Supplies,Budget,20252.49,25975.98
+P0066,Printer Paper 1,Office Supplies,Standard,19215.85,30547.55
+P0067,Printer Paper 2,Office Supplies,Budget,12274.79,19601.26
+P0068,Printer Paper 3,Office Supplies,Standard,14852.18,20811.71
+P0069,Printer Paper 4,Office Supplies,Standard,18885.79,24149.0
+P0070,Printer Paper 5,Office Supplies,Standard,6958.31,9226.48
+P0071,Pen 1,Office Supplies,Standard,25525.69,34630.81
+P0072,Pen 2,Office Supplies,Budget,11663.97,19069.26
+P0073,Pen 3,Office Supplies,Standard,35344.78,57746.18
+P0074,Pen 4,Office Supplies,Budget,6523.36,9219.01
+P0075,Pen 5,Office Supplies,Premium,7773.54,12119.83
+P0076,Stapler 1,Office Supplies,Standard,11965.7,19322.21
+P0077,Stapler 2,Office Supplies,Standard,5316.09,7612.28
+P0078,Stapler 3,Office Supplies,Budget,2789.36,4041.58
+P0079,Stapler 4,Office Supplies,Standard,36743.17,43495.23
+P0080,Stapler 5,Office Supplies,Standard,11746.29,17401.68
+P0081,File Folder 1,Office Supplies,Premium,5472.68,8857.67
+P0082,File Folder 2,Office Supplies,Budget,8490.95,11137.01
+P0083,File Folder 3,Office Supplies,Standard,26505.43,39997.52
+P0084,File Folder 4,Office Supplies,Standard,7159.67,8606.47
+P0085,File Folder 5,Office Supplies,Premium,44989.48,61980.93
+P0086,Calculator 1,Office Supplies,Budget,21784.56,35098.82
+P0087,Calculator 2,Office Supplies,Standard,4086.01,4931.85
+P0088,Calculator 3,Office Supplies,Budget,42645.06,55752.39
+P0089,Calculator 4,Office Supplies,Budget,16079.15,22128.53
+P0090,Calculator 5,Office Supplies,Standard,8673.53,13870.6
+P0091,Backpack 1,Accessories,Standard,11510.85,17296.62
+P0092,Backpack 2,Accessories,Premium,1888.0,2788.32
+P0093,Backpack 3,Accessories,Standard,15354.86,22690.33
+P0094,Backpack 4,Accessories,Premium,42750.83,65163.26
+P0095,Backpack 5,Accessories,Budget,39450.59,48060.1
+P0096,Mouse 1,Accessories,Premium,16670.24,23648.17
+P0097,Mouse 2,Accessories,Standard,13464.55,15892.42
+P0098,Mouse 3,Accessories,Standard,11566.54,15533.41
+P0099,Mouse 4,Accessories,Premium,8983.64,11507.58
+P0100,Mouse 5,Accessories,Standard,17558.7,23224.75
+P0101,Keyboard 1,Accessories,Premium,24095.67,37009.27
+P0102,Keyboard 2,Accessories,Standard,26500.25,43277.59
+P0103,Keyboard 3,Accessories,Budget,23560.81,37812.72
+P0104,Keyboard 4,Accessories,Budget,2783.53,3798.26
+P0105,Keyboard 5,Accessories,Budget,31469.58,51715.72
+P0106,USB Cable 1,Accessories,Standard,4311.43,6169.68
+P0107,USB Cable 2,Accessories,Premium,5826.39,8889.67
+P0108,USB Cable 3,Accessories,Standard,32595.9,51654.1
+P0109,USB Cable 4,Accessories,Standard,28358.32,41295.94
+P0110,USB Cable 5,Accessories,Budget,37934.11,60107.62
+P0111,Phone Case 1,Accessories,Budget,1783.89,2547.56
+P0112,Phone Case 2,Accessories,Premium,38736.51,57105.32
+P0113,Phone Case 3,Accessories,Budget,18996.98,23633.23
+P0114,Phone Case 4,Accessories,Standard,31714.43,39712.17
+P0115,Phone Case 5,Accessories,Budget,4347.2,6929.5
+P0116,Power Bank 1,Accessories,Budget,9110.8,11809.02
+P0117,Power Bank 2,Accessories,Standard,43747.35,65800.05
+P0118,Power Bank 3,Accessories,Standard,13947.14,18125.18
+P0119,Power Bank 4,Accessories,Standard,1922.63,2911.33
+P0120,Power Bank 5,Accessories,Premium,367.85,557.2

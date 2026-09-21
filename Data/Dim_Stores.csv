@@ -1,0 +1,26 @@
+StoreID,StoreName,City,Region,StoreType
+S001,Store 01,Delhi,North,Standalone
+S002,Store 02,Noida,North,Standalone
+S003,Store 03,Gurugram,North,High Street
+S004,Store 04,Lucknow,North,Standalone
+S005,Store 05,Jaipur,North,Mall
+S006,Store 06,Chandigarh,North,High Street
+S007,Store 07,Mumbai,West,Mall
+S008,Store 08,Pune,West,High Street
+S009,Store 09,Ahmedabad,West,Standalone
+S010,Store 10,Surat,West,High Street
+S011,Store 11,Bengaluru,South,Mall
+S012,Store 12,Chennai,South,High Street
+S013,Store 13,Hyderabad,South,Standalone
+S014,Store 14,Kochi,South,Commercial Area
+S015,Store 15,Mysuru,South,Commercial Area
+S016,Store 16,Kolkata,East,High Street
+S017,Store 17,Bhubaneswar,East,High Street
+S018,Store 18,Patna,East,Commercial Area
+S019,Store 19,Ranchi,East,Commercial Area
+S020,Store 20,Indore,Central,Standalone
+S021,Store 21,Delhi,North,Commercial Area
+S022,Store 22,Noida,North,Standalone
+S023,Store 23,Gurugram,North,Standalone
+S024,Store 24,Lucknow,North,Mall
+S025,Store 25,Jaipur,North,High Street
