@@ -369,9 +369,6 @@ This project demonstrates practical experience with:
 -   Business-oriented data visualization
 
 ------------------------------------------------------------------------
-
-## 📄 License
-
 ## 📄 License
 
 This project is licensed under the MIT License.
